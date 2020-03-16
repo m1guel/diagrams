@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-16T12:58:36.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 OPR/67.0.3575.79" etag="_hBQkNMPfQpkFp-eqXS6" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-16T12:58:54.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 OPR/67.0.3575.79" etag="NsryRfw2b9gLyz8ByHcy" version="12.8.5" type="github">
   <diagram id="-9tl46MMvIOzKLyB9kHu" name="Page-1">
     <mxGraphModel dx="1382" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wyif-WNhcubzZ_lqFdsm-19" value="Public Load Balancer (Region B)" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#23445d;fillColor=#bac8d3;shape=mxgraph.azure.load_balancer_generic;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="155" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="716.25" y="150" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wyif-WNhcubzZ_lqFdsm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;" parent="1" source="wyif-WNhcubzZ_lqFdsm-22" target="wyif-WNhcubzZ_lqFdsm-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -90,13 +90,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wyif-WNhcubzZ_lqFdsm-22" value="Traffic Manager" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#23445d;fillColor=#bac8d3;shape=mxgraph.azure.traffic_manager;pointerEvents=1;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="743.76" y="-20" width="50" height="50" as="geometry" />
+          <mxGeometry x="710" y="-20" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wyif-WNhcubzZ_lqFdsm-26" value="Failover Secondary" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;labelBackgroundColor=#ffffff;strokeColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="733.38" y="271" width="70.75" height="44" as="geometry" />
+          <mxGeometry x="699.62" y="271" width="70.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="wyif-WNhcubzZ_lqFdsm-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#23445d;fillColor=#bac8d3;shape=mxgraph.azure.virtual_network;pointerEvents=1;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="743.76" y="279.25" width="50" height="27.500000000000004" as="geometry" />
+          <mxGeometry x="710" y="279.25" width="50" height="27.500000000000004" as="geometry" />
         </mxCell>
         <mxCell id="wyif-WNhcubzZ_lqFdsm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;strokeWidth=3;" parent="1" source="wyif-WNhcubzZ_lqFdsm-29" target="wyif-WNhcubzZ_lqFdsm-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
