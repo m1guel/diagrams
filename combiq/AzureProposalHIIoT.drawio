@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-16T12:20:15.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 OPR/67.0.3575.79" etag="wzpUHpMqf_t-qFMgEt6h" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-16T12:22:12.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 OPR/67.0.3575.79" etag="JJU_pcpNNNbTyRIx0E1a" version="12.8.5" type="github">
   <diagram id="-9tl46MMvIOzKLyB9kHu" name="Page-1">
     <mxGraphModel dx="1382" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry x="297" y="266" width="279" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wyif-WNhcubzZ_lqFdsm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wyif-WNhcubzZ_lqFdsm-1" target="wyif-WNhcubzZ_lqFdsm-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.57;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wyif-WNhcubzZ_lqFdsm-1" target="wyif-WNhcubzZ_lqFdsm-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wyif-WNhcubzZ_lqFdsm-1" value="Device" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;labelPosition=center;" vertex="1" parent="1">
@@ -78,6 +81,21 @@
         </mxCell>
         <mxCell id="wyif-WNhcubzZ_lqFdsm-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="753.76" y="274.25" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wyif-WNhcubzZ_lqFdsm-29" target="wyif-WNhcubzZ_lqFdsm-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-29" value="Azure Function" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.content_delivery_network;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="70" y="296.25" width="50" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.57;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wyif-WNhcubzZ_lqFdsm-30" target="wyif-WNhcubzZ_lqFdsm-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_queue;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-31" value="Azure Function" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.content_delivery_network;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="66" y="560" width="50" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
