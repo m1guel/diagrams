@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-03-16T12:08:20.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 OPR/67.0.3575.79" etag="js8rFIZjS76AWNta5szZ" version="12.8.5" type="github"><diagram id="-9tl46MMvIOzKLyB9kHu" name="Page-1">ddG9DoMgEADgp2FHaBN2a9ulk0NnIlchQc8gRtunrwasJbYTx3cHxw/heTNdnOz0DRVYwqiaCD8RxjIu2Dws8gwixCFA7YyKRRuU5gURadTBKOiTQo9ovelSrLBtofKJSedwTMseaNOunaxhB2Ul7V7vRnkdb3Gkm1/B1HrtnNGYaeRaHKHXUuH4RbwgPHeIPkTNlINdHm99l7Du/Cf7OZiD1v9YMAfb3vMk+SFevAE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-16T12:11:23.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 OPR/67.0.3575.79" etag="nENb81TQWy2rZDc_toX-" version="12.8.5" type="github">
+  <diagram id="-9tl46MMvIOzKLyB9kHu" name="Page-1">
+    <mxGraphModel dx="1382" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-6" value="Dispatcher Availability Set" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-1" value="Device" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-2" value="VM" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-3" value="VM" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-4" value="VM" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-5" value="Public Load Balancer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.load_balancer_generic;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="416.25" y="170" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wyif-WNhcubzZ_lqFdsm-7" value="Service Bus" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.service_bus_topics_and_subscriptions;pointerEvents=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="416.25" y="450" width="45" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
