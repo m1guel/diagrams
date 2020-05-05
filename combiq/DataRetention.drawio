@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-05T14:36:41.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 OPR/67.0.3575.137" etag="xMN-YhY1JYF2utUIKKrw" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-05T14:42:03.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 OPR/67.0.3575.137" etag="CYS-zjDTQany3hQfXfrK" version="12.8.6" type="github">
   <diagram id="-J0KT2BYcmD6b5bWTi_p" name="Page-1">
     <mxGraphModel dx="1382" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,6 +86,15 @@
         </mxCell>
         <mxCell id="O5daIoYqZDKL43m7VQ_--11" value="Virtual HD" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="751.25" y="250" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O5daIoYqZDKL43m7VQ_--13" value="Considerations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="345" y="560" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O5daIoYqZDKL43m7VQ_--14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.database;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="183.75" y="630" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O5daIoYqZDKL43m7VQ_--15" value="&lt;font style=&quot;font-size: 15px&quot;&gt;- The database will increase the size with the time&lt;br&gt;- Keeping old information in the same database&lt;br&gt;- The import action will increase the size of the database server&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="246.25" y="610" width="440" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
