@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-05T14:34:40.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 OPR/67.0.3575.137" etag="1ixzbZjoYFPfTqWQI5jz" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-05T14:35:35.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 OPR/67.0.3575.137" etag="zLyBLSvZsAa94IqybQaz" version="12.8.6" type="github">
   <diagram id="-J0KT2BYcmD6b5bWTi_p" name="Page-1">
     <mxGraphModel dx="1382" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1gSnzTh4Ll-ivpdpBZ--3" value="Cold storage" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="570" y="150" width="120" height="190" as="geometry" />
+          <mxGeometry x="540" y="150" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="H1gSnzTh4Ll-ivpdpBZ--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="H1gSnzTh4Ll-ivpdpBZ--1" target="H1gSnzTh4Ll-ivpdpBZ--2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="410" y="200" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="H1gSnzTh4Ll-ivpdpBZ--4" value="Backpack" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.database;" parent="1" vertex="1">
-          <mxGeometry x="610" y="162.5" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="580" y="162.5" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H1gSnzTh4Ll-ivpdpBZ--7" value="Blob storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" parent="1" vertex="1">
           <mxGeometry x="230" y="390" width="50" height="45" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry x="40" y="250" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H1gSnzTh4Ll-ivpdpBZ--9" value="Virtual HD" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="611.25" y="250" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="581.25" y="250" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H1gSnzTh4Ll-ivpdpBZ--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="H1gSnzTh4Ll-ivpdpBZ--10" target="H1gSnzTh4Ll-ivpdpBZ--2" edge="1">
           <mxGeometry relative="1" as="geometry" />
