@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T19:06:02.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="1u5fkZS4lrkouwXsATBP" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-17T19:12:35.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="nmf_3-Id2byum9HE57Uy" version="13.8.0" type="github">
   <diagram id="RDtPT-bHixlKmdcHidb1" name="Page-1">
     <mxGraphModel dx="784" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,16 +53,34 @@
           <mxGeometry x="575" y="160" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-18" value="Generate the benefit profile document" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-2">
-          <mxGeometry x="360" y="145" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="145" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-3" value="Benefits Manager" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-1">
           <mxGeometry y="350" width="700" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="EqA8bBB3nNrjbtlvsTNp-13" value="Authorizes the integration to the benefit register" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-3">
-          <mxGeometry x="70" y="50" width="120" height="80" as="geometry" />
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-3" source="EqA8bBB3nNrjbtlvsTNp-23" target="EqA8bBB3nNrjbtlvsTNp-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-23" value="Receive the document to be included in benefit register" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-3">
+          <mxGeometry x="180" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-24" value="" style="html=1;shape=message;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-23">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="7" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-21" value="Call for a decision meeting" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;strokeWidth=3;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-3">
+          <mxGeometry x="360" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-4" value="Executive Board Members" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-1">
           <mxGeometry y="650" width="700" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="EqA8bBB3nNrjbtlvsTNp-18" target="EqA8bBB3nNrjbtlvsTNp-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
