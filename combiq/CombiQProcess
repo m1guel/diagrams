@@ -1,22 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T19:12:35.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="nmf_3-Id2byum9HE57Uy" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-17T19:29:23.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="BXqha11kaV3Jw6-XPifl" version="13.8.0" type="github">
   <diagram id="RDtPT-bHixlKmdcHidb1" name="Page-1">
     <mxGraphModel dx="784" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="30" width="700" height="970" as="geometry" />
+          <mxGeometry x="160" y="30" width="700" height="660" as="geometry" />
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-2" value="Business Analyst" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-1">
-          <mxGeometry y="20" width="700" height="330" as="geometry" />
+          <mxGeometry y="20" width="700" height="250" as="geometry" />
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-2" source="EqA8bBB3nNrjbtlvsTNp-5" target="EqA8bBB3nNrjbtlvsTNp-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EqA8bBB3nNrjbtlvsTNp-16" value="Run a competitive analysis" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-2">
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-38" value="Run a competitive analysis" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-2">
           <mxGeometry x="540" y="25" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EqA8bBB3nNrjbtlvsTNp-17" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-16">
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-39" value="" style="html=1;shape=mxgraph.bpmn.user_task;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-38">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="7" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-40" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-38">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-7" y="-14" as="offset" />
           </mxGeometry>
@@ -33,7 +38,7 @@
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-8" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-2">
           <mxGeometry x="153" y="30" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="EqA8bBB3nNrjbtlvsTNp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-2" source="EqA8bBB3nNrjbtlvsTNp-9" target="EqA8bBB3nNrjbtlvsTNp-16">
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-2" source="EqA8bBB3nNrjbtlvsTNp-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="65" as="targetPoint" />
           </mxGeometry>
@@ -41,30 +46,51 @@
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-9" value="Find out a new opportunity based on business strategy" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-2">
           <mxGeometry x="360" y="25" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EqA8bBB3nNrjbtlvsTNp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-2" source="EqA8bBB3nNrjbtlvsTNp-16" target="EqA8bBB3nNrjbtlvsTNp-14">
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-2" target="EqA8bBB3nNrjbtlvsTNp-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="105" as="sourcePoint" />
+            <mxPoint x="600" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EqA8bBB3nNrjbtlvsTNp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-2" source="EqA8bBB3nNrjbtlvsTNp-14" target="EqA8bBB3nNrjbtlvsTNp-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-35" value="Calculate the resources estimates" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-2">
+          <mxGeometry x="360" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EqA8bBB3nNrjbtlvsTNp-14" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-2">
-          <mxGeometry x="575" y="160" width="50" height="50" as="geometry" />
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-36" value="" style="html=1;shape=mxgraph.bpmn.user_task;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-35">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="7" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-37" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-35">
+          <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-7" y="-14" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-18" value="Generate the benefit profile document" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-2">
-          <mxGeometry x="180" y="145" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-3" value="Benefits Manager" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-1">
-          <mxGeometry y="350" width="700" height="300" as="geometry" />
+          <mxGeometry y="270" width="700" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="EqA8bBB3nNrjbtlvsTNp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-3" source="EqA8bBB3nNrjbtlvsTNp-23" target="EqA8bBB3nNrjbtlvsTNp-21">
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-3" source="EqA8bBB3nNrjbtlvsTNp-23" target="EqA8bBB3nNrjbtlvsTNp-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="90" as="sourcePoint" />
+            <mxPoint x="480" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-41" value="Forecast the financial outcomes&amp;nbsp;" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-3">
+          <mxGeometry x="180" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-42" value="" style="html=1;shape=mxgraph.bpmn.user_task;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-41">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="7" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-43" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-41">
+          <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-7" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-23" value="Receive the document to be included in benefit register" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-3">
-          <mxGeometry x="180" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-24" value="" style="html=1;shape=message;outlineConnect=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-23">
           <mxGeometry width="20" height="14" relative="1" as="geometry">
@@ -72,15 +98,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-21" value="Call for a decision meeting" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;strokeWidth=3;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-3">
-          <mxGeometry x="360" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-3" source="EqA8bBB3nNrjbtlvsTNp-41" target="EqA8bBB3nNrjbtlvsTNp-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-27" value="Request investment approval" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-3">
+          <mxGeometry x="180" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-4" value="Executive Board Members" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-1">
-          <mxGeometry y="650" width="700" height="320" as="geometry" />
+          <mxGeometry y="520" width="700" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-4" source="EqA8bBB3nNrjbtlvsTNp-28" target="EqA8bBB3nNrjbtlvsTNp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-33" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=general;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-4">
+          <mxGeometry x="390" y="45" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-28" value="Authorize the benefit realization" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-4">
+          <mxGeometry x="180" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EqA8bBB3nNrjbtlvsTNp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="EqA8bBB3nNrjbtlvsTNp-18" target="EqA8bBB3nNrjbtlvsTNp-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="EqA8bBB3nNrjbtlvsTNp-27" target="EqA8bBB3nNrjbtlvsTNp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="EqA8bBB3nNrjbtlvsTNp-21" target="EqA8bBB3nNrjbtlvsTNp-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqA8bBB3nNrjbtlvsTNp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="EqA8bBB3nNrjbtlvsTNp-35" target="EqA8bBB3nNrjbtlvsTNp-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
