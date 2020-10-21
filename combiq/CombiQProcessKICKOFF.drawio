@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T20:51:43.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="Fe55KUpCiLMvrrBjgi1q" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T19:56:12.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="jVz_4wkESJWwbaDzXlln" version="13.8.0" type="github">
   <diagram id="RDtPT-bHixlKmdcHidb1" name="Page-1">
-    <mxGraphModel dx="782" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,25 +36,16 @@
         <mxCell id="mg1wNwwZSoMQqakspvtf-16" value="Create the Benefits Dependency Network" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-2">
           <mxGeometry x="595" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mg1wNwwZSoMQqakspvtf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.588;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="mg1wNwwZSoMQqakspvtf-8" target="mg1wNwwZSoMQqakspvtf-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mg1wNwwZSoMQqakspvtf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="mg1wNwwZSoMQqakspvtf-2" target="mg1wNwwZSoMQqakspvtf-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mg1wNwwZSoMQqakspvtf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="mg1wNwwZSoMQqakspvtf-5" target="mg1wNwwZSoMQqakspvtf-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mg1wNwwZSoMQqakspvtf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="mg1wNwwZSoMQqakspvtf-6" target="mg1wNwwZSoMQqakspvtf-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mg1wNwwZSoMQqakspvtf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="mg1wNwwZSoMQqakspvtf-9" target="mg1wNwwZSoMQqakspvtf-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mg1wNwwZSoMQqakspvtf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="mg1wNwwZSoMQqakspvtf-16" target="mg1wNwwZSoMQqakspvtf-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mg1wNwwZSoMQqakspvtf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="mg1wNwwZSoMQqakspvtf-7" target="mg1wNwwZSoMQqakspvtf-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mg1wNwwZSoMQqakspvtf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="mg1wNwwZSoMQqakspvtf-19" target="mg1wNwwZSoMQqakspvtf-24">
@@ -65,6 +56,9 @@
         </mxCell>
         <mxCell id="mg1wNwwZSoMQqakspvtf-19" value="Establish the Benefits Realization Roadmap based on features and time" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-3">
           <mxGeometry x="595" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mg1wNwwZSoMQqakspvtf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-3" source="mg1wNwwZSoMQqakspvtf-7" target="mg1wNwwZSoMQqakspvtf-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mg1wNwwZSoMQqakspvtf-7" value="Calculate the deadline using the costs and budget" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-3">
           <mxGeometry x="295" y="50" width="120" height="80" as="geometry" />
@@ -82,10 +76,16 @@
           <mxGeometry x="630" y="47" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mg1wNwwZSoMQqakspvtf-8" value="Create the Acceptance Criteria document per project" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-4">
-          <mxGeometry x="345" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="295" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mg1wNwwZSoMQqakspvtf-6" value="Create the Productivity Metrics document per project" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EqA8bBB3nNrjbtlvsTNp-4">
           <mxGeometry x="135" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mg1wNwwZSoMQqakspvtf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-4" source="mg1wNwwZSoMQqakspvtf-6" target="mg1wNwwZSoMQqakspvtf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mg1wNwwZSoMQqakspvtf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="EqA8bBB3nNrjbtlvsTNp-1" source="mg1wNwwZSoMQqakspvtf-8" target="mg1wNwwZSoMQqakspvtf-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
