@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T20:55:16.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="TIfA76awkkEWbZWO-9Nn" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T21:12:16.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="pYpYw-fEGgTsk2jnmn_N" version="13.8.5" type="github">
   <diagram id="xFuQ9PCSv6uEHJDfToyH" name="Page-1">
     <mxGraphModel dx="1020" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,20 +161,50 @@
         <mxCell id="gMx9DAgeVk1VrespsSMA-21" value="Reduce costs of storage digital services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="420" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G91SojmEzxASizQwldf1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#b85450;fontSize=20;fillColor=#f8cecc;" edge="1" parent="1" source="gMx9DAgeVk1VrespsSMA-22" target="gMx9DAgeVk1VrespsSMA-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="385" />
+              <mxPoint x="760" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G91SojmEzxASizQwldf1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;fontSize=20;fillColor=#f8cecc;" edge="1" parent="1" source="gMx9DAgeVk1VrespsSMA-22" target="gMx9DAgeVk1VrespsSMA-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="441" />
+              <mxPoint x="740" y="572" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gMx9DAgeVk1VrespsSMA-22" value="Rapid Data Analysis" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="605" y="373" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G91SojmEzxASizQwldf1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;fontSize=20;fillColor=#f8cecc;" edge="1" parent="1" source="gMx9DAgeVk1VrespsSMA-23" target="gMx9DAgeVk1VrespsSMA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G91SojmEzxASizQwldf1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;fontSize=20;fillColor=#f8cecc;" edge="1" parent="1" source="gMx9DAgeVk1VrespsSMA-23" target="gMx9DAgeVk1VrespsSMA-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="336" />
+              <mxPoint x="740" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gMx9DAgeVk1VrespsSMA-23" value="Maintenance Prediction based on data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="605" y="268" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gMx9DAgeVk1VrespsSMA-24" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="780" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="gMx9DAgeVk1VrespsSMA-24" value="Identify new market opportunities with data insight" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="780" y="268" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gMx9DAgeVk1VrespsSMA-25" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="780" y="410" width="120" height="80" as="geometry" />
+        <mxCell id="gMx9DAgeVk1VrespsSMA-25" value="Smart capabilities for machines" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="780" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gMx9DAgeVk1VrespsSMA-26" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="gMx9DAgeVk1VrespsSMA-26" value="Real-Time Business Decision Making" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="780" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G91SojmEzxASizQwldf1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#b85450;fontSize=20;fillColor=#f8cecc;" edge="1" parent="1" source="G91SojmEzxASizQwldf1-1" target="gMx9DAgeVk1VrespsSMA-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G91SojmEzxASizQwldf1-1" value="Massive Data Consumption and Processing" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="605" y="553" width="120" height="80" as="geometry" />
